@@ -1,0 +1,8 @@
+library(shiny)
+load("data/contractions.RData")
+load("data/badwords.RData")
+#load("data/rftrigramt.RData")
+#load("data/rfquadgramallt.RData")
+load("data/logbigramt.RData")
+load("data/logtrigramt.RData")
+load("data/logquadgramallt.RData")
